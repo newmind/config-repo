@@ -8,4 +8,4 @@ spring:
 server:
   port: 9999
 custom:
-  message: Hello, api ST!
+  message: Hello, api ST! (devel branch)

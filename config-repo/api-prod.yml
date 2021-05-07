@@ -8,4 +8,4 @@ spring:
 server:
   port: 9998    
 custom:
-  message: Hello, api-prod!
+  message: Hello, api-prod! (devel branch)

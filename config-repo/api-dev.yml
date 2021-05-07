@@ -6,4 +6,4 @@ spring:
     password: password
     virtual-host: vhost03
 custom:
-  message: Hello, api dev!
+  message: Hello, api dev! (devel branch)
